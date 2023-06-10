@@ -1,0 +1,2 @@
+tkinter (gui library)
+openai (it's the most improved software conpany's library to use.)

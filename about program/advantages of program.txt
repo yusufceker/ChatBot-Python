@@ -1,0 +1,5 @@
+1.) Normal Chat Bot Programmes are not free and it's difficult to use that programmes.
+	But this program is only free and you can use it for free.
+2.) Free Chat Bots(eg:chatgpt...) can't answer personel programmes. But in this program you can do it.
+
+3.) If a software company make a new improved library for Python, you can improve this program.
