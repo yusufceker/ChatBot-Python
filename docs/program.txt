@@ -1,0 +1,16 @@
+Api = https://openai.com
+
+Model: text-davinci-003
+
+—Note
+—————— It’s the top level that we can use for free.
+—————— This program has coded by 1 person
+—————— In this app we use Tkinter for GUI
+—————— In this program we use OpenAI for artificial intelligence library
+
+
+
+
+
+										Yusuf Çeker
+										    2023
