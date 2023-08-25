@@ -4,7 +4,7 @@ import openai
 
 
 # Set up your OpenAI API Key
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def send_message():
